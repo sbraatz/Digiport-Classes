@@ -1,2 +1,3 @@
 console.log("Olá, mundo");
-console.log("teste");
+console.log("oi");
+console.log("hello");
